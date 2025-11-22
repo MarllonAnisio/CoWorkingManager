@@ -1,4 +1,5 @@
 package model;
 
-public class Auditorium {
+public class Auditorium extends Space{
+
 }

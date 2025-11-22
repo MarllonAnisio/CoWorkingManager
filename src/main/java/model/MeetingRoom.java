@@ -1,4 +1,4 @@
 package model;
 
-public class MeetingRoom {
+public class MeetingRoom extends Space{
 }

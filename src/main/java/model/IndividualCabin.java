@@ -1,4 +1,4 @@
 package model;
 
-public class IndividualCabin {
+public class IndividualCabin extends Space{
 }
