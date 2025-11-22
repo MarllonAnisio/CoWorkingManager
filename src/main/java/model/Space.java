@@ -8,6 +8,5 @@ public abstract class Space {
     private int capacity;
     private float pricePerHour;
 
-
-
+    public abstract double calculateReservationPrice(double durationInHours, boolean includesProjector);
 }
